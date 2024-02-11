@@ -2,17 +2,17 @@
     "basics": {
       "name": "Geraldine Davalos Rincon",
       "label": "Tecnóloga en Gestión Logística",
-      "image": "",
+      "image": "/src/img/foto geral.png",
       "email": "angerona1209@gmail.com",
       "phone": "+57 318 669 3152",
       "url": "https://johndoe.com",
-      "summary": "A summary of John Doe…",
+      "summary": "Técnica en Logística Empresarial y Tecnóloga en Gestión Logística, actualmente estudiante avanzada de Ingeniería Industrial. Experiencia destacada en recibo y despacho de productos terminados, gestión de inventario y atención al cliente. Almacenista con habilidades en manejo de básculas y SIESA. Especializada en tomar pedidos de manera precisa y ofrecer asesoría proactiva sobre productos, brindando soluciones personalizadas. Amplias funciones, incluyendo supervisión de personal y gestión de indicadores. Caracterizada por ética, responsabilidad y liderazgo autónomo. Puntual, honesta y comprometida con la eficiencia en todas las tareas.",
       "location": {
         "address": "2712 Broadway St",
         "postalCode": "CA 94115",
-        "city": "San Francisco",
-        "countryCode": "US",
-        "region": "California"
+        "city": "Palmira",
+        "countryCode": "CO",
+        "region": "Valle"
       },
       "profiles": [{
         "network": "Twitter",
