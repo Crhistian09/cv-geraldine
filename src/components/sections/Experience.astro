@@ -9,23 +9,61 @@ import { work } from '@cv'
 
 <Section title="Experience">
   <ul>
-    {work.map(
-        ({ name, startDate, endDate, position, summary, highlights}) ==>{ 
-    return(
-    <li>
-        <h3>{name}</h3>
-        <h4>{position}</h4>
-        <p>{period}</p>
-        <p>{summary}</p>
-    
-    
-    
-     </li>
-                )
-            }
-         )
+    {
+      work.map(
+        ({ namecompany, startDate, endDate, position, summary, highlights }) => {
+          const startYear = new Date(startDate).getFullYear()
+          const endYear =
+            endDate != null ? new Date(endDate).getFullYear() : "Actual"
+          const years = `${startYear} - ${endYear}`
+
+          return (
+            <li>
+              <article>
+                <header>
+                  <div>
+                    <h3>
+                        {namecompany}
+                    </h3>
+                    <h4>{position}</h4>
+                  </div>
+
+                  <time>{years}</time>
+                </header>
+
+                <footer>
+                  <p>{summary}</p>
+                </footer>
+              </article>
+            </li>
+          )
+        }
+      )
     }
   </ul>
-
-
 </Section>
+
+<style>
+  ul {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+  }
+
+  article h3 {
+    font-weight: 400;
+    color: #333;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 4px;
+  }
+
+  time {
+    font-size: 0.90rem;
+    color: #555;
+  }
+</style>
