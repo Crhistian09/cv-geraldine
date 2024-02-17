@@ -35,19 +35,52 @@
       "namecompany": "FRANCISCO JAVIER TAFUR",
       "position": "Auxiliar de Almacén y Bascula",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
+      "startDate": "2019-06-01",
+      "endDate": "2019-09-01",
       "summary": "Me encargué de la elaboración de presupuestos para repuestos y materia prima destinados a la planta. Fui responsable de recibir y verificar la mercancía de acuerdo con los pedidos y facturas de los proveedores, así como de almacenar los repuestos en el almacén según las referencias correspondientes. Descargaba información en los Kardex de inventario y entregaba repuestos e insumos al personal de mantenimiento. Además, llevé a cabo el pesaje de caña, mulas y camiones, así como la medición del tanque de ACPM. Me encargaba de administrar y tanquear ACPM en los tractores para garantizar un control adecuado en la producción de caña.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "namecompany": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "namecompany": "SURTIDOR INDUSTRIAL S.A.S",
+      "position": "Almacenista",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2019-06-01",
+      "endDate": "2020-09-01",
+      "summary": "En mi rol, me encargaba de recibir la materia prima en la bodega, realizando el conteo mensual de inventario y digitando la información en el formato de auditoría. Además, participaba en el empaque y embalaje de la mercancía para su despacho final, colaborando en el descargo de facturas en el sistema. También me responsabilizaba del despacho eficiente del producto terminado y manejaba el programa SAI OPEN con destreza.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "namecompany": "PROVIDER S.A",
+      "position": "Administradora de inventarios",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2021-06-01",
+      "endDate": "2021-09-01",
+      "summary": "En mi papel, me especializo en el manejo efectivo del programa Siigo. Realizo inventarios semanales de materia prima e insumos, superviso el recibo de estos elementos y coordino el despacho oportuno de productos terminados. Mi responsabilidad principal es mantener un registro preciso de las existencias, asegurando la disponibilidad adecuada de materia prima e insumos para el proceso de producción y su posterior despacho a clientes.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "namecompany": "UNILEVER ANDINA",
+      "position": "Practicante de coordinadores de operaciones",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2022-06-01",
+      "endDate": "2022-09-01",
+      "summary": "Demostre habilidades sólidas en el manejo eficiente del programa SAP. Mi responsabilidad incluyó la elaboración y gestión de autorizaciones de salidas ANCAM, así como el mantenimiento de archivos físicos y en el sistema. Realicé un seguimiento detallado a la operación de balance de carga, gestionando el status de despacho y volumen. También generé informes diarios de inventario de estibas vacías, gestioné el ingreso de estibas vacías y llenas en el sistema SAP, y coordiné traslados de estibas entre plantas. Adicionalmente, llevé a cabo traslados de productos terminados con novedades a la planta correspondiente.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "namecompany": "FUNDIMETAL DE COLOMBIA SAS",
+      "position": "Jefe Logística",
+      "startDate": "2023-03-01",
+      "endDate": "2024-05-01",
+      "summary": "Lideré la coordinación de envíos de productos, asegurando embarques oportunos y cumpliendo con las cantidades establecidas. Gestioné presupuestos y negocié contratos con proveedores para optimizar costos. Me enfoqué en analizar y mejorar los procesos logísticos internos y externos, así como en organizar eficientemente la mercancía en el almacén. Tuve a mi cargo el registro, custodia y control de existencias, asegurando la conservación adecuada y gestionando el destino de los productos. Brindé asistencia en labores de despacho y recepción de mercancía, realizando conteos físicos o mediante métodos alternativos. Además, me encargué de la elaboración y seguimiento de indicadores de desempeño logístico, así como de la gestión y supervisión del almacenamiento y control de inventario.",
       "highlights": [
         "Started the company"
       ]
@@ -96,13 +129,19 @@
       "summary": "Description…"
     }],
     "skills": [{
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "name": "Habilidades de trabajo en equipo"
+    },{
+      "name": "Adaptabilidad"
+    },{
+      "name": "Comunicación efectiva"
+    },{
+      "name": "Manejo de SAP"
+    },{
+      "name": "Habilidades ofimáticas"
+    },{
+      "name": "Capacidad de aprendizaje"
+    },{
+      "name": "Toma de decisiones"
     }],
     "languages": [{
       "language": "English",
