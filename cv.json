@@ -98,16 +98,26 @@
       ]
     }],
     "education": [{
-      "institution": "University",
+      "institution": "SENA",
       "url": "https://institution.com/",
       "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
+      "studyType": "Técnico en Logística Empresarial",
+      "startDate": "2017-02-01",
+      "endDate": "2018-03-01"
+    },{
+      "institution": "SENA",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Tecnólogo en Gestión Logística",
+      "startDate": "2020-02-01",
+      "endDate": "2022-01-01"
+    },{
+      "institution": "Universidad Nacional Abierta y a Distancia (UNAD)",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Ingenieria Industrial",
+      "startDate": "2023-02-01",
+      "endDate": null
     }],
     "awards": [{
       "title": "Award",
