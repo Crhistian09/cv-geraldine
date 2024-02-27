@@ -2,7 +2,7 @@
 import { basics } from '@cv'
 import Section from '@/components/Section.astro';
 
-const {name, label, image, location, profiles, phone, email } = basics
+const {name, label, label2, image, location, phone, email } = basics
 const { city, region } = location
 ---
 
@@ -11,20 +11,12 @@ const { city, region } = location
         <div class="info">
             <h1>{name}</h1>
             <h2>{label}</h2>
+            <h4>{label2}</h4>
             <span>
                 {city}, {region}
             </span>
             <footer>
-                {
-                    email && (
-                        <a
-                            href={`mailto:${email}`}
-                            title={`Enviar un correo electrónco a ${name} al correo ${email}`}
-                        >
-                            
-                        </a>
-                    )
-                }
+                {email}, {phone}
             </footer>
         </div>
         <figure>
@@ -58,6 +50,13 @@ const { city, region } = location
         color: #333;
         font-weight: 500;
         font-size: 1.1rem;
+        text-wrap: balance;
+    }
+
+    h4{
+        color: #333;
+        font-weight: 500;
+        font-size: 1rem;
         text-wrap: balance;
     }
 
