@@ -21,28 +21,7 @@
         "url": "https://twitter.com/john"
       }]
     },
-    "work": [{
-      "namecompany": "El Forraje S.A",
-      "position": "Auxiliar Logística",
-      "url": "https://company.com",
-      "startDate": "2018-01-09",
-      "endDate": "2018-10-16",
-      "summary": "Llevé a cabo eficientemente una variedad de tareas logísticas, tales como la recepción y despacho de objetos, así como la gestión de inventarios para materiales, equipos y elementos en almacenes y bodegas. Aplicaba rigurosamente las técnicas y normas de seguridad e higiene durante el almacenamiento de objetos, garantizando un entorno de trabajo seguro. Mi experiencia también abarcó el pesaje preciso de vehículos, incluyendo camiones, tracto mulas y turbos. Además, demostré habilidades en el manejo de indicadores y adquirí experiencia práctica en la utilización del sistema SIESA.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "namecompany": "FRANCISCO JAVIER TAFUR",
-      "position": "Auxiliar de Almacén y Bascula",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2019-06-01",
-      "endDate": "2019-09-01",
-      "summary": "Me encargué de la elaboración de presupuestos para repuestos y materia prima destinados a la planta. Fui responsable de recibir y verificar la mercancía de acuerdo con los pedidos y facturas de los proveedores, así como de almacenar los repuestos en el almacén según las referencias correspondientes. Descargaba información en los Kardex de inventario y entregaba repuestos e insumos al personal de mantenimiento. Además, llevé a cabo el pesaje de caña, mulas y camiones, así como la medición del tanque de ACPM. Me encargaba de administrar y tanquear ACPM en los tractores para garantizar un control adecuado en la producción de caña.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
+    "work": [
     {
       "namecompany": "SURTIDOR INDUSTRIAL S.A.S",
       "position": "Almacenista",
@@ -60,7 +39,7 @@
       "url": "https://twitch.tv/midudev",
       "startDate": "2021-06-01",
       "endDate": "2021-09-01",
-      "summary": "En mi papel, me especializo en el manejo efectivo del programa Siigo. Realizo inventarios semanales de materia prima e insumos, superviso el recibo de estos elementos y coordino el despacho oportuno de productos terminados. Mi responsabilidad principal es mantener un registro preciso de las existencias, asegurando la disponibilidad adecuada de materia prima e insumos para el proceso de producción y su posterior despacho a clientes.",
+      "summary": "Me especialicé en la gestión eficiente del programa Siigo. Llevé a cabo inventarios semanales de materia prima e insumos, supervisé la recepción de estos elementos y coordiné la expedición oportuna de productos terminados. Mi responsabilidad principal consistió en mantener un registro preciso de las existencias, garantizando la disponibilidad adecuada de materia prima e insumos para el proceso de producción y su envío posterior a los clientes.",
       "highlights": [
         "Started the company"
       ]
