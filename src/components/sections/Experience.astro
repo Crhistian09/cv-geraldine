@@ -11,7 +11,7 @@ import { work } from '@cv'
   <ul>
     {
       work.map(
-        ({ namecompany, startDate, endDate, position, summary, highlights }) => {
+        ({ namecompany, startDate, endDate, position, summary,}) => {
           const startYear = new Date(startDate).getFullYear()
           const endYear =
             endDate != null ? new Date(endDate).getFullYear() : "Actual"
